@@ -1,2 +1,2 @@
 # CODSOFT
-CodSoft Internship 
+ML Internship with Codsoft completed three tasks
